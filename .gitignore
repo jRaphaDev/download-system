@@ -1,0 +1,8 @@
+app-service/.idea
+app-service/.mvn
+app-service/target/
+app-service/mvnw
+app-service/mvnw.cmd
+
+web-app/node_modules
+web-app/package-lock.json
